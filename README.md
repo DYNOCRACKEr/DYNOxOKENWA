@@ -14,9 +14,9 @@ pip2 install mechanize
 
 pip2 install requests
 
-git clone https://github.com/DYNOCRACKEr/FB-VIP
+git clone https://github.com/DYNOCRACKEr/DYNOxOKENWA
 
-cd FB-VIP
+cd DYNOxOKENWA
 
 python DYNOxOKENWAxENC.py
 
