@@ -6,7 +6,7 @@ pkg install mechanize
 
 pkg install python
 
-pkg install python2
+pkg install python2 
 
 pkg install git
 
@@ -18,7 +18,7 @@ git clone https://github.com/DYNOCRACKEr/FB-VIP
 
 cd FB-VIP
 
-python alii-ENC.py
+python DYNOxOKENWAxENC.py
 
 -------------------------------
 
