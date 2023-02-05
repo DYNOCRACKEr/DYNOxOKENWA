@@ -18,7 +18,7 @@ git clone https://github.com/DYNOCRACKEr/DYNOxOKENWA
 
 cd DYNOxOKENWA
 
-python DYNOxOKENWAxENC.py
+python DYNOxTLYAKxOKENWAxENC.py.py
 
 -------------------------------
 The tool is updated No One Can Dec This tool🔥
